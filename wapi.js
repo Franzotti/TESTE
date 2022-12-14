@@ -8655,7 +8655,7 @@
                 }), (0, r(8785).exportModule)(t, {
                     isMDBackend: "isMDBackend",
                     isLegacyWebdBackend: "isLegacyWebdBackend"
-                }, (e => e.isMDBackend))
+                }, (e => isMDBackend))
             },
             9472: (e, t, r) => {
                 "use strict";
